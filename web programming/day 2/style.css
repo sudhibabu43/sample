@@ -1,0 +1,16 @@
+*{
+    color: rgb(114, 37, 37);
+    background-color: aliceblue;
+}
+p{
+    color: blue;
+    background-color: bisque;
+}
+#sel{
+    color: green;
+    background-color: rgb(233, 58, 218);
+}
+.sel{
+    color: rgb(148, 108, 146);
+    background-color: yellow;
+}
